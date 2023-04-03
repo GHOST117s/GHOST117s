@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Food App](https://github.com/GHOST117s/Food-App.git)
 
-- 🌱 I’m currently learning **React , NextJs , Laravel , Css_frameWork_like -tailwind,Semantic UIs**
+- 🌱 I’m currently learning **React , NextJs , Laravel ,Filament, Css_frameWork_like -tailwind,Semantic UIs**
 
-- 💬 Ask me about **Laravel , React , NextJs**
+- 💬 Ask me about **Laravel,Filament, React , NextJs**
 
 - 📫 How to reach me **sidharthkumarsamal@gmail.com**
 
