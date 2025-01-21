@@ -1,34 +1,61 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
-<h1 align="center">Hi 👋, I'm Sidharth kumar samal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost117s&label=Profile%20views&color=0e75b6&style=flat" alt="ghost117s" /> </p>
+<div align="center">
+  <h1>👋 Hello World, I'm Sidharth Kumar Samal!</h1>
+  <h3>💻 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharth-kumar-samal)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sidharth_kumar_117)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthkumarsamal@gmail.com)
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghost117s" alt="ghost117s" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif"/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🚀 About Me
 
-- 🔭 I’m currently working on [Food App](https://github.com/GHOST117s/Food-App.git)
+- 🔭 Currently building a **[Ruby on Rails Discourse theme](https://github.com/GHOST117s/PagalGuyDiscourse_theme)** with modern tech stack
+- 🌱 Expanding my skills in **Ruby on Rails**, **Node js**, **Laravel**, and **Filament, SOLID Principals** 
+- 💡 Passionate about creating clean, efficient, and user-friendly applications
+- 🎯 Goal: Contribute to open-source projects and make a positive impact
+- ⚡ Fun fact: When I'm not coding, you'll find me [Your Hobby/Interest]
 
-- 🌱 I’m currently learning **React , NextJs , Laravel ,Filament, Css_frameWork_like -tailwind,Semantic UIs**
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **Laravel,Filament, React , NextJs**
+```javascript
+const skills = {
+    frontend: ['React', 'Next.js', 'HTML5', 'CSS3', 'JavaScript'],
+    backend: ['Laravel', 'PHP', 'Python'],
+    database: ['MySQL'],
+    frameworks: ['Bootstrap', 'Tailwind CSS', 'Semantic UI'],
+    tools: ['Git', 'Postman', 'Linux'],
+    currentlyLearning: ['Advanced React Patterns', 'Laravel Filament']
+}
+```
 
-- 📫 How to reach me **sidharthkumarsamal@gmail.com**
+<!-- ### 💼 What I'm Working On
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sidharth kumar samal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth kumar samal" height="30" width="40" /></a>
-<a href="https://instagram.com/sidharth_kumar_117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidharth_kumar_117" height="30" width="40" /></a>
-</p>
+- 🍔 **Food App**: A modern food delivery platform built with [Tech Stack]
+- 🌐 **[Other Project]**: Brief description
+- 📱 **[Another Project]**: Brief description -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 📈 GitHub Stats
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost117s&show_icons=true&locale=en&layout=compact" alt="ghost117s" /></p> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost117s&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost117s&show_icons=true&locale=en" alt="ghost117s" /></p> -->
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghost117s&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghost117s&" alt="ghost117s" /></p>
+### 💻 Coding Philosophy
 
+> "Clean code always looks like it was written by someone who cares." - Robert C. Martin
+
+### 📫 Let's Connect!
+
+I'm always interested in collaborating on interesting projects or just having a tech chat! Feel free to reach out to me at sidharthkumarsamal@gmail.com.
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghost117s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
