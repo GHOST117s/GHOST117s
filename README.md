@@ -43,6 +43,9 @@ const skills = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghost117s&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost117s&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghost117s&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
