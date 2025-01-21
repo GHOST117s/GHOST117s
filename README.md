@@ -41,10 +41,12 @@ const skills = {
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghost117s&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost117s&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=ghost117s&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost117s&layout=compact&theme=tokyonight" alt="Most Used Languages" /></td>
+    </tr>
+  </table>
 </div>
 
 ### 🏆 GitHub Trophies
