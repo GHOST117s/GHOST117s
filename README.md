@@ -17,18 +17,18 @@
 - 🌱 Expanding my skills in **Ruby on Rails**, **Node js**, **Laravel**, and **Filament, SOLID Principals** 
 - 💡 Passionate about creating clean, efficient, and user-friendly applications
 - 🎯 Goal: Contribute to open-source projects and make a positive impact
-- ⚡ Fun fact: When I'm not coding, you'll find me [Your Hobby/Interest]
+- ⚡ Fun fact: When I'm not coding, you'll find me **[Discord:ghost1177321](https://discord.com/)**
 
 ### 🛠️ Tech Stack
 
 ```javascript
 const skills = {
-    frontend: ['React', 'Next.js', 'HTML5', 'CSS3', 'JavaScript'],
+    frontend: ['React', 'Next.js', 'HTML5', 'CSS3', 'JavaScript',],
     backend: ['Laravel', 'PHP', 'Python'],
     database: ['MySQL'],
     frameworks: ['Bootstrap', 'Tailwind CSS', 'Semantic UI'],
     tools: ['Git', 'Postman', 'Linux'],
-    currentlyLearning: ['Advanced React Patterns', 'Laravel Filament']
+    currentlyLearning: ['Advanced React Patterns', 'Laravel Filament','Ruby on Rails'],
 }
 ```
 
