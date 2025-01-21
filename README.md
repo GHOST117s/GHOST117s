@@ -32,11 +32,13 @@ const skills = {
 }
 ```
 
-<!-- ### 💼 What I'm Working On
+<!-- <!-- ### 💼 What I'm Working On -->
 
-- 🍔 **Food App**: A modern food delivery platform built with [Tech Stack]
-- 🌐 **[Other Project]**: Brief description
-- 📱 **[Another Project]**: Brief description -->
+### 🌱 Currently Learning
+
+- **DevOps**: Kubernetes, Terraform
+- **Backend**: GraphQL, Microservices
+- **Frontend**: TypeScript, Next.js
 
 ### 📈 GitHub Stats
 
