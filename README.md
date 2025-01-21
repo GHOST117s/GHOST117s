@@ -41,7 +41,7 @@ const skills = {
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost117s&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghost117s&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ### 🏆 GitHub Trophies
